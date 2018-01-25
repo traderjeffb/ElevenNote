@@ -15,6 +15,25 @@ Any computer or laptop with windows 8 or higher.
 
 #### Files List
 
+..		
+App_Start	
+Content	Add project files.	
+Controllers	Add project files.
+Models	Add project files.	
+Properties	Add project files.	
+Scripts	Add project files.	
+Views	Add project files.	
+fonts	Add project files.	
+ApplicationInsights.config	
+ElevenNote.Web.csproj	Add project files.	
+Global.asax	Add project files.	
+Global.asax.cs	Add project files.	
+Startup.cs	Add project files.	
+Web.Debug.config	Add project files.
+Web.Release.config	Add project files.
+Web.config	Add project files.
+favicon.ico	Add project files.	
+packages.config	Add project files.	
 
 
 Additional credit goes to Eleven Fifty Academy staff who have helped me in a multitude of ways in creation of this project. 
